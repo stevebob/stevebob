@@ -1,4 +1,4 @@
-If you came here looking for @stevebob, I've moved to @gridbugs!
+If you came here looking for @stevebob, my github account has moved to [@gridbugs](https://github.com/gridbugs)
 
 <!---
 stevebob/stevebob is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
